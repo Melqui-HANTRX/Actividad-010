@@ -32,3 +32,4 @@ for i in range(cantidad):
     }
     if categoria in producto:
 
+
